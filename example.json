@@ -1,0 +1,6 @@
+{
+  "name": "cockroachdb-mcp-vscode",
+  "engine": "cockroachdb",
+  "slug": "cockroachdb",
+  "kind": "mcp"
+}
